@@ -5,8 +5,8 @@ from pathlib import Path
 
 import requests
 
-sheet_id = os.environ["GOOGLE_SHEET_ID"].strip()
-sheet_gid = os.environ["GOOGLE_SHEET_GID"].strip()
+sheet_id = "1Ck1wo1UtZci5AzgEOz9XUEHHL8ofbTVds_arleiOT8s"
+sheet_gid = "1271093552"
 
 url = (
     f"https://docs.google.com/spreadsheets/d/{sheet_id}/export"
