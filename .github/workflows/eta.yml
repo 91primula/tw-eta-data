@@ -30,6 +30,12 @@ jobs:
       - name: 라이브러리 설치
         run: python -m pip install requests beautifulsoup4
 
+      - name: 구글시트 닉네임 동기화
+        env:
+          GOOGLE_SHEET_ID: ${{ vars.GOOGLE_SHEET_ID }}
+          GOOGLE_SHEET_GID: ${{ vars.GOOGLE_SHEET_GID }}
+        run: python sync_nicknames.py
+
       - name: 넥슨 에타 랭킹 조회
         run: python collect_eta.py
 
