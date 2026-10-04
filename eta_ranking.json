@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-03 20:04:32",
+  "CollectDate": "2026-10-04 09:55:03",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -17,16 +17,16 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 5,
-      "Character": "란지에",
-      "UserId": "채치수",
+      "CharacterCode": 1,
+      "Character": "보리스",
+      "UserId": "숑이",
       "Level": 60
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 1,
-      "Character": "보리스",
-      "UserId": "숑이",
+      "CharacterCode": 5,
+      "Character": "란지에",
+      "UserId": "채치수",
       "Level": 60
     },
     {
@@ -255,17 +255,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 18,
-      "Character": "예프넨",
-      "UserId": "윤삐약",
-      "Level": 7
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "비애래",
       "Level": 8
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 18,
+      "Character": "예프넨",
+      "UserId": "윤삐약",
+      "Level": 7
     },
     {
       "ServerCode": 7,
@@ -286,7 +286,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 3
+      "Level": 5
     },
     {
       "ServerCode": 7,
