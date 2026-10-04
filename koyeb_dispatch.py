@@ -12,7 +12,7 @@ KST = ZoneInfo("Asia/Seoul")
 
 
 def next_run(now):
-    target = now.replace(hour=9, minute=53, second=0, microsecond=0)
+    target = now.replace(hour=9, minute=00, second=0, microsecond=0)
     return target if target > now else target + timedelta(days=1)
 
 
