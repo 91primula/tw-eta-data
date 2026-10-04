@@ -2,9 +2,9 @@ name: 에타 랭킹 수집
 
 on:
   workflow_dispatch:
-  schedule:
-    # UTC 00:10 = 한국 시간 오전 09:10
-    - cron: "10 0 * * *"
+  #schedule:
+  #  # UTC 00:10 = 한국 시간 오전 09:10
+  #  - cron: "10 0 * * *"
 
 permissions:
   contents: write
