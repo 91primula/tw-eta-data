@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-04 09:55:03",
+  "CollectDate": "2026-10-05 09:02:05",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -13,7 +13,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "초보티치22",
-      "Level": 79
+      "Level": 80
     },
     {
       "ServerCode": 7,
@@ -41,7 +41,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "홀란또",
-      "Level": 50
+      "Level": 51
     },
     {
       "ServerCode": 7,
@@ -90,13 +90,6 @@
       "CharacterCode": 15,
       "Character": "로아미니",
       "UserId": "아메리카노빈☆",
-      "Level": 40
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "피치파이",
       "Level": 40
     },
     {
@@ -244,7 +237,7 @@
       "CharacterCode": 11,
       "Character": "아나이스",
       "UserId": "2525",
-      "Level": 12
+      "Level": 13
     },
     {
       "ServerCode": 7,
@@ -258,7 +251,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "비애래",
-      "Level": 8
+      "Level": 9
     },
     {
       "ServerCode": 7,
@@ -286,7 +279,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 5
+      "Level": 6
     },
     {
       "ServerCode": 7,
@@ -294,6 +287,20 @@
       "Character": "이자크",
       "UserId": "단묵이",
       "Level": 1
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 11,
+      "Character": "아나이스",
+      "UserId": "서라온",
+      "Level": 40
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 6,
+      "Character": "이자크",
+      "UserId": "렝글러",
+      "Level": 31
     }
   ],
   "NotFound": [
