@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-05 09:02:05",
+  "CollectDate": "2026-10-06 09:02:04",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -48,7 +48,7 @@
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "음바배",
-      "Level": 46
+      "Level": 47
     },
     {
       "ServerCode": 7,
@@ -94,6 +94,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 11,
+      "Character": "아나이스",
+      "UserId": "서라온",
+      "Level": 40
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 16,
       "Character": "녹턴",
       "UserId": "숀더게스트",
@@ -101,10 +108,17 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 6,
+      "Character": "이자크",
+      "UserId": "렝글러",
+      "Level": 31
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "강다윤",
-      "Level": 29
+      "Level": 30
     },
     {
       "ServerCode": 7,
@@ -258,21 +272,7 @@
       "CharacterCode": 18,
       "Character": "예프넨",
       "UserId": "윤삐약",
-      "Level": 7
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "권쫑",
-      "Level": 5
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "나너",
-      "Level": 5
+      "Level": 8
     },
     {
       "ServerCode": 7,
@@ -283,24 +283,24 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 6,
-      "Character": "이자크",
-      "UserId": "단묵이",
-      "Level": 1
+      "CharacterCode": 11,
+      "Character": "아나이스",
+      "UserId": "권쫑",
+      "Level": 6
     },
     {
       "ServerCode": 7,
       "CharacterCode": 11,
       "Character": "아나이스",
-      "UserId": "서라온",
-      "Level": 40
+      "UserId": "나너",
+      "Level": 5
     },
     {
       "ServerCode": 7,
       "CharacterCode": 6,
       "Character": "이자크",
-      "UserId": "렝글러",
-      "Level": 31
+      "UserId": "단묵이",
+      "Level": 1
     }
   ],
   "NotFound": [
