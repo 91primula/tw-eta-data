@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-08 09:02:00",
+  "CollectDate": "2026-10-09 09:02:02",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -104,7 +104,7 @@
       "CharacterCode": 16,
       "Character": "녹턴",
       "UserId": "숀더게스트",
-      "Level": 38
+      "Level": 39
     },
     {
       "ServerCode": 7,
@@ -132,7 +132,7 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "행운♣",
-      "Level": 26
+      "Level": 27
     },
     {
       "ServerCode": 7,
@@ -230,7 +230,7 @@
       "CharacterCode": 14,
       "Character": "이솔렛",
       "UserId": "성가",
-      "Level": 15
+      "Level": 16
     },
     {
       "ServerCode": 7,
