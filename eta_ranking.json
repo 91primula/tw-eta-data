@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-10 09:02:02",
+  "CollectDate": "2026-10-11 09:02:07",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -132,7 +132,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
-      "Level": 26
+      "Level": 27
     },
     {
       "ServerCode": 7,
@@ -279,7 +279,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 7
+      "Level": 8
     },
     {
       "ServerCode": 7,
@@ -301,13 +301,19 @@
       "Character": "이자크",
       "UserId": "단묵이",
       "Level": 1
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 1,
+      "Character": "보리스",
+      "UserId": "갱진22",
+      "Level": 1
     }
   ],
   "NotFound": [
     "냉각수",
     "마검제",
     "ㅆㅣㅂㅏ",
-    "갱진22",
     "별을품은마검",
     "이제마",
     "따국"
