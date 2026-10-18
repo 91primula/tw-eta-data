@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-17 09:02:03",
+  "CollectDate": "2026-10-18 09:02:01",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -27,13 +27,6 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "채치수",
-      "Level": 60
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 8,
-      "Character": "티치엘",
-      "UserId": "엔리세",
       "Level": 60
     },
     {
@@ -290,20 +283,6 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "나너",
-      "Level": 5
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 6,
-      "Character": "이자크",
-      "UserId": "단묵이",
-      "Level": 1
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "갱진22",
@@ -311,11 +290,14 @@
     }
   ],
   "NotFound": [
+    "단묵이",
+    "라러",
     "냉각수",
     "마검제",
     "ㅆㅣㅂㅏ",
     "별을품은마검",
     "이제마",
-    "따국"
+    "따국",
+    "RyHen"
   ]
 }
