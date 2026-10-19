@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-18 09:02:01",
+  "CollectDate": "2026-10-19 09:01:59",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -34,7 +34,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "홀란또",
-      "Level": 51
+      "Level": 52
     },
     {
       "ServerCode": 7,
@@ -195,7 +195,7 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "유령천마",
-      "Level": 20
+      "Level": 23
     },
     {
       "ServerCode": 7,
@@ -272,7 +272,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 9
+      "Level": 10
     },
     {
       "ServerCode": 7,
@@ -286,11 +286,10 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "갱진22",
-      "Level": 1
+      "Level": 2
     }
   ],
   "NotFound": [
-    "단묵이",
     "라러",
     "냉각수",
     "마검제",
