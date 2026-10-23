@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-22 09:02:03",
+  "CollectDate": "2026-10-23 09:02:00",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -287,10 +287,16 @@
       "Character": "보리스",
       "UserId": "갱진22",
       "Level": 2
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 14,
+      "Character": "이솔렛",
+      "UserId": "라러",
+      "Level": 1
     }
   ],
   "NotFound": [
-    "라러",
     "냉각수",
     "마검제",
     "ㅆㅣㅂㅏ",
