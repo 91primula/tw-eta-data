@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-23 09:02:00",
+  "CollectDate": "2026-10-24 09:02:02",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -118,7 +118,7 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "행운♣",
-      "Level": 28
+      "Level": 29
     },
     {
       "ServerCode": 7,
@@ -265,7 +265,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 10
+      "Level": 11
     },
     {
       "ServerCode": 7,
