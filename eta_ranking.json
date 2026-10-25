@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-24 09:02:02",
+  "CollectDate": "2026-10-25 09:02:02",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -248,6 +248,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 1,
+      "Character": "보리스",
+      "UserId": "우군망",
+      "Level": 12
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 13,
       "Character": "벤야",
       "UserId": "김로일",
@@ -259,13 +266,6 @@
       "Character": "보리스",
       "UserId": "비애래",
       "Level": 10
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 1,
-      "Character": "보리스",
-      "UserId": "우군망",
-      "Level": 11
     },
     {
       "ServerCode": 7,
