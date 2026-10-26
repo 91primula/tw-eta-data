@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-25 09:02:02",
+  "CollectDate": "2026-10-26 09:02:06",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -55,7 +55,7 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
-      "Level": 40
+      "Level": 50
     },
     {
       "ServerCode": 7,
@@ -237,7 +237,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "다농띠",
-      "Level": 13
+      "Level": 14
     },
     {
       "ServerCode": 7,
