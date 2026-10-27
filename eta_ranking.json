@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-26 09:02:06",
+  "CollectDate": "2026-10-27 09:02:02",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -38,6 +38,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 5,
+      "Character": "란지에",
+      "UserId": "구톤",
+      "Level": 50
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "음바배",
@@ -49,13 +56,6 @@
       "Character": "티치엘",
       "UserId": "뮈게",
       "Level": 40
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 5,
-      "Character": "란지에",
-      "UserId": "구톤",
-      "Level": 50
     },
     {
       "ServerCode": 7,
@@ -132,7 +132,7 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "유령천마",
-      "Level": 23
+      "Level": 24
     },
     {
       "ServerCode": 7,
@@ -209,7 +209,7 @@
       "CharacterCode": 17,
       "Character": "리체",
       "UserId": "요빼희",
-      "Level": 18
+      "Level": 19
     },
     {
       "ServerCode": 7,
@@ -251,7 +251,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 12
+      "Level": 13
     },
     {
       "ServerCode": 7,
