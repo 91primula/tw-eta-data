@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-27 09:02:02",
+  "CollectDate": "2026-10-28 09:02:05",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -125,7 +125,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
-      "Level": 27
+      "Level": 28
     },
     {
       "ServerCode": 7,
@@ -251,7 +251,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 13
+      "Level": 15
     },
     {
       "ServerCode": 7,
