@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-03 21:45:17",
+  "CollectDate": "2026-11-03 21:55:09",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -234,10 +234,24 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 8,
+      "Character": "티치엘",
+      "UserId": "나는티첼공장장",
+      "Level": 10
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 11,
       "Character": "아나이스",
       "UserId": "권쫑",
       "Level": 6
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 16,
+      "Character": "녹턴",
+      "UserId": "마메히나타",
+      "Level": 4
     },
     {
       "ServerCode": 7,
@@ -252,20 +266,6 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 16,
-      "Character": "녹턴",
-      "UserId": "마메히나타",
-      "Level": 4
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 8,
-      "Character": "티치엘",
-      "UserId": "나는티첼공장장",
-      "Level": 10
     }
   ],
   "NotFound": [
