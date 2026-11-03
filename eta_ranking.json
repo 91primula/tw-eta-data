@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-10-30 09:02:01",
+  "CollectDate": "2026-11-03 21:45:17",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -101,24 +101,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 6,
-      "Character": "이자크",
-      "UserId": "렝글러",
-      "Level": 31
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "강다윤",
-      "Level": 31
+      "Level": 32
     },
     {
       "ServerCode": 7,
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "행운♣",
-      "Level": 29
+      "Level": 30
     },
     {
       "ServerCode": 7,
@@ -133,20 +126,6 @@
       "Character": "나야트레이",
       "UserId": "유령천마",
       "Level": 24
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "5000",
-      "Level": 20
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "엉망덩창",
-      "Level": 20
     },
     {
       "ServerCode": 7,
@@ -167,13 +146,6 @@
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "유교책",
-      "Level": 20
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "아키라키드",
       "Level": 20
     },
     {
@@ -216,28 +188,21 @@
       "CharacterCode": 12,
       "Character": "클로에",
       "UserId": "새드데이",
-      "Level": 17
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 14,
-      "Character": "이솔렛",
-      "UserId": "성가",
-      "Level": 16
+      "Level": 18
     },
     {
       "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 16
+      "Level": 18
     },
     {
       "ServerCode": 7,
       "CharacterCode": 18,
       "Character": "예프넨",
       "UserId": "핏빛체리",
-      "Level": 14
+      "Level": 15
     },
     {
       "ServerCode": 7,
@@ -262,13 +227,6 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 1,
-      "Character": "보리스",
-      "UserId": "비애래",
-      "Level": 10
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 18,
       "Character": "예프넨",
       "UserId": "윤삐약",
@@ -286,23 +244,36 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "갱진22",
-      "Level": 2
+      "Level": 3
     },
     {
       "ServerCode": 7,
       "CharacterCode": 14,
       "Character": "이솔렛",
       "UserId": "라러",
-      "Level": 1
+      "Level": 2
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 16,
+      "Character": "녹턴",
+      "UserId": "마메히나타",
+      "Level": 4
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 8,
+      "Character": "티치엘",
+      "UserId": "나는티첼공장장",
+      "Level": 10
     }
   ],
   "NotFound": [
-    "냉각수",
-    "마검제",
     "ㅆㅣㅂㅏ",
     "별을품은마검",
-    "이제마",
     "따국",
-    "RyHen"
+    "바다거북",
+    "왜숙모",
+    "눅스"
   ]
 }
