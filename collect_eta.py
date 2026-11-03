@@ -152,13 +152,16 @@ def main():
                 f"{item['Character']} / 에타 {item['Level']}"
             )
 
-    # 일부만 검색된 경우에도 기존 데이터를 통째로 교체하지 않음
-    if not_found or not rankings:
-        missing = ", ".join(not_found) or "전체"
-
+    # 정상 조회 결과가 하나도 없을 때만 저장 중단
+    if not rankings:
         raise RuntimeError(
-            f"조회되지 않은 캐릭터: {missing}. "
-            "불완전한 결과이므로 기존 JSON은 유지합니다."
+            "조회된 캐릭터가 없습니다. 기존 JSON은 유지합니다."
+        )
+
+    if not_found:
+        print(
+            "조회되지 않은 캐릭터는 NotFound에 기록합니다: "
+            + ", ".join(not_found)
         )
 
     payload = {
