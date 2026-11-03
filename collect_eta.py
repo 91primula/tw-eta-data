@@ -32,20 +32,34 @@ def fetch_character(session, nickname):
         },
         timeout=30,
     )
-    response.raise_for_status()
-
+    # HTTP 오류를 발생시키기 전에 보안 차단 여부부터 확인
     soup = BeautifulSoup(response.content, "html.parser")
     page_text = soup.get_text(" ", strip=True)
 
     blocked_messages = [
-        "Enable JavaScript and cookies",
+        "enable javascript and cookies",
         "보안 검사를 진행",
     ]
 
-    if any(message in page_text for message in blocked_messages):
+    security_check = any(
+        message in page_text.lower()
+        for message in blocked_messages
+    )
+
+    if response.status_code == 403 or security_check:
         raise RuntimeError(
-            "넥슨 보안 검사에 막혔습니다. 기존 JSON은 유지합니다."
+            f"[{nickname}] 넥슨에서 접근을 거부했습니다. "
+            f"(HTTP {response.status_code}) "
+            "이번 수집은 중단하며 기존 JSON은 유지합니다."
         )
+
+    if response.status_code == 429:
+        raise RuntimeError(
+            f"[{nickname}] 요청 횟수가 제한되었습니다. "
+            "이번 수집은 중단하며 기존 JSON은 유지합니다."
+        )
+
+    response.raise_for_status()
 
     # 정상 랭킹 페이지인지 확인
     if (
@@ -138,10 +152,13 @@ def main():
                 f"{item['Character']} / 에타 {item['Level']}"
             )
 
-    # 전부 조회 실패했을 때 기존 데이터를 덮어쓰지 않음
-    if not rankings:
+    # 일부만 검색된 경우에도 기존 데이터를 통째로 교체하지 않음
+    if not_found or not rankings:
+        missing = ", ".join(not_found) or "전체"
+
         raise RuntimeError(
-            "조회된 캐릭터가 없습니다. 기존 JSON은 유지합니다."
+            f"조회되지 않은 캐릭터: {missing}. "
+            "불완전한 결과이므로 기존 JSON은 유지합니다."
         )
 
     payload = {
