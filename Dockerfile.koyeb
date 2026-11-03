@@ -1,5 +1,12 @@
 FROM python:3.11-slim
+
 ENV PYTHONUNBUFFERED=1
 WORKDIR /app
-COPY koyeb_dispatch.py /app/koyeb_dispatch.py
-CMD ["python", "koyeb_dispatch.py"]
+
+COPY requirements.txt .
+RUN pip install --no-cache-dir -r requirements.txt
+
+COPY collect_eta.py .
+COPY nicknames.txt .
+
+CMD ["sh", "-c", "python collect_eta.py; result=$?; echo \"수집 테스트 종료 코드: $result\"; sleep infinity"]
