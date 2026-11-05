@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-05 06:01:36",
+  "CollectDate": "2026-11-05 19:31:35",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -41,7 +41,7 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
-      "Level": 51
+      "Level": 52
     },
     {
       "ServerCode": 7,
@@ -185,17 +185,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 12,
-      "Character": "클로에",
-      "UserId": "새드데이",
-      "Level": 18
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
       "Level": 19
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 12,
+      "Character": "클로에",
+      "UserId": "새드데이",
+      "Level": 18
     },
     {
       "ServerCode": 7,
