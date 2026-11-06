@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-06 06:01:35",
+  "CollectDate": "2026-11-06 19:31:36",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -87,13 +87,6 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "서라온",
-      "Level": 40
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 16,
       "Character": "녹턴",
       "UserId": "숀더게스트",
@@ -118,7 +111,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
-      "Level": 28
+      "Level": 30
     },
     {
       "ServerCode": 7,
@@ -146,7 +139,7 @@
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "유교책",
-      "Level": 20
+      "Level": 21
     },
     {
       "ServerCode": 7,
@@ -188,7 +181,7 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 19
+      "Level": 20
     },
     {
       "ServerCode": 7,
@@ -269,6 +262,7 @@
     }
   ],
   "NotFound": [
+    "서라온",
     "ㅆㅣㅂㅏ",
     "별을품은마검",
     "따국",
