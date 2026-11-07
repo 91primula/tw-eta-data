@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-07 06:01:33",
+  "CollectDate": "2026-11-07 19:31:35",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -122,6 +122,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 3,
+      "Character": "시벨린",
+      "UserId": "유교책",
+      "Level": 21
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 16,
       "Character": "녹턴",
       "UserId": "쪼기",
@@ -133,13 +140,6 @@
       "Character": "보리스",
       "UserId": "파문이",
       "Level": 20
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 3,
-      "Character": "시벨린",
-      "UserId": "유교책",
-      "Level": 21
     },
     {
       "ServerCode": 7,
@@ -171,17 +171,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 17,
-      "Character": "리체",
-      "UserId": "요빼희",
-      "Level": 19
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
       "Level": 20
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 17,
+      "Character": "리체",
+      "UserId": "요빼희",
+      "Level": 19
     },
     {
       "ServerCode": 7,
