@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-08 06:01:34",
+  "CollectDate": "2026-11-10 06:01:33",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -41,7 +41,7 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
-      "Level": 52
+      "Level": 53
     },
     {
       "ServerCode": 7,
@@ -111,14 +111,14 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
-      "Level": 30
+      "Level": 31
     },
     {
       "ServerCode": 7,
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "유령천마",
-      "Level": 24
+      "Level": 25
     },
     {
       "ServerCode": 7,
