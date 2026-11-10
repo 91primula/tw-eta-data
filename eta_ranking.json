@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-10 06:01:33",
+  "CollectDate": "2026-11-10 19:31:34",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -31,17 +31,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 8,
-      "Character": "티치엘",
-      "UserId": "홀란또",
-      "Level": 52
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
       "Level": 53
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 8,
+      "Character": "티치엘",
+      "UserId": "홀란또",
+      "Level": 52
     },
     {
       "ServerCode": 7,
@@ -97,14 +97,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "강다윤",
-      "Level": 32
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 10,
-      "Character": "나야트레이",
-      "UserId": "행운♣",
-      "Level": 30
+      "Level": 33
     },
     {
       "ServerCode": 7,
@@ -112,6 +105,13 @@
       "Character": "티치엘",
       "UserId": "전투코끼리",
       "Level": 31
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 10,
+      "Character": "나야트레이",
+      "UserId": "행운♣",
+      "Level": 30
     },
     {
       "ServerCode": 7,
@@ -125,7 +125,7 @@
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "유교책",
-      "Level": 21
+      "Level": 22
     },
     {
       "ServerCode": 7,
@@ -181,7 +181,7 @@
       "CharacterCode": 17,
       "Character": "리체",
       "UserId": "요빼희",
-      "Level": 19
+      "Level": 20
     },
     {
       "ServerCode": 7,
