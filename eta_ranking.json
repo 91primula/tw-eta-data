@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-17 06:01:36",
+  "CollectDate": "2026-11-17 19:31:37",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -131,14 +131,14 @@
       "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
-      "UserId": "천린",
-      "Level": 22
+      "UserId": "파문이",
+      "Level": 24
     },
     {
       "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
-      "UserId": "파문이",
+      "UserId": "천린",
       "Level": 23
     },
     {
@@ -209,7 +209,7 @@
       "CharacterCode": 11,
       "Character": "아나이스",
       "UserId": "2525",
-      "Level": 14
+      "Level": 15
     },
     {
       "ServerCode": 7,
@@ -241,17 +241,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 16,
-      "Character": "녹턴",
-      "UserId": "마메히나타",
-      "Level": 4
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "갱진22",
       "Level": 5
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 16,
+      "Character": "녹턴",
+      "UserId": "마메히나타",
+      "Level": 4
     },
     {
       "ServerCode": 7,
