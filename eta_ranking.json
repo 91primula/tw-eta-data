@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-20 19:54:29",
+  "CollectDate": "2026-11-20 19:57:18",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -213,6 +213,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 17,
+      "Character": "리체",
+      "UserId": "주연바라기",
+      "Level": 11
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 13,
       "Character": "벤야",
       "UserId": "김로일",
@@ -266,13 +273,6 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 17,
-      "Character": "리체",
-      "UserId": "주연바라기",
-      "Level": 11
     }
   ],
   "NotFound": [
@@ -281,7 +281,6 @@
     "별을품은마검",
     "다국",
     "바다거북",
-    "눅스",
-    "StomeIsland"
+    "눅스"
   ]
 }
