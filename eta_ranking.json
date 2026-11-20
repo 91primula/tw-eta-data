@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-20 19:57:18",
+  "CollectDate": "2026-11-21 06:01:42",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -273,6 +273,13 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 14,
+      "Character": "이솔렛",
+      "UserId": "성가",
+      "Level": 17
     }
   ],
   "NotFound": [
@@ -281,6 +288,7 @@
     "별을품은마검",
     "다국",
     "바다거북",
-    "눅스"
+    "눅스",
+    "StomeIsland"
   ]
 }
