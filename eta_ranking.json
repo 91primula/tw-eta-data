@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-20 06:01:35",
+  "CollectDate": "2026-11-20 19:31:35",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -192,17 +192,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 18,
-      "Character": "예프넨",
-      "UserId": "핏빛체리",
-      "Level": 15
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 11,
       "Character": "아나이스",
       "UserId": "2525",
       "Level": 16
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 18,
+      "Character": "예프넨",
+      "UserId": "핏빛체리",
+      "Level": 15
     },
     {
       "ServerCode": 7,
@@ -236,6 +236,13 @@
       "ServerCode": 7,
       "CharacterCode": 11,
       "Character": "아나이스",
+      "UserId": "왜숙모",
+      "Level": 10
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 11,
+      "Character": "아나이스",
       "UserId": "권쫑",
       "Level": 9
     },
@@ -259,13 +266,6 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "왜숙모",
-      "Level": 10
     }
   ],
   "NotFound": [
