@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-21 06:01:42",
+  "CollectDate": "2026-11-21 19:31:39",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -97,7 +97,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "강다윤",
-      "Level": 35
+      "Level": 36
     },
     {
       "ServerCode": 7,
@@ -118,14 +118,14 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "유령천마",
-      "Level": 27
+      "Level": 28
     },
     {
       "ServerCode": 7,
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "유교책",
-      "Level": 24
+      "Level": 25
     },
     {
       "ServerCode": 7,
@@ -189,6 +189,13 @@
       "Character": "클로에",
       "UserId": "새드데이",
       "Level": 18
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 14,
+      "Character": "이솔렛",
+      "UserId": "성가",
+      "Level": 17
     },
     {
       "ServerCode": 7,
@@ -273,13 +280,6 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 14,
-      "Character": "이솔렛",
-      "UserId": "성가",
-      "Level": 17
     }
   ],
   "NotFound": [
@@ -288,7 +288,6 @@
     "별을품은마검",
     "다국",
     "바다거북",
-    "눅스",
-    "StomeIsland"
+    "눅스"
   ]
 }

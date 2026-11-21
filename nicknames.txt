@@ -25,6 +25,7 @@ StoneIsland
 wHaSoo
 요빼희
 새드데이
+성가
 2525
 핏빛체리
 다농띠
@@ -43,5 +44,3 @@ wHaSoo
 다국
 바다거북
 눅스
-StomeIsland
-성가
