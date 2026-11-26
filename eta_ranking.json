@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-24 06:01:41",
+  "CollectDate": "2026-11-26 19:31:41",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -34,7 +34,7 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
-      "Level": 56
+      "Level": 57
     },
     {
       "ServerCode": 7,
@@ -90,20 +90,20 @@
       "CharacterCode": 16,
       "Character": "녹턴",
       "UserId": "숀더게스트",
-      "Level": 40
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 8,
-      "Character": "티치엘",
-      "UserId": "강다윤",
-      "Level": 36
+      "Level": 41
     },
     {
       "ServerCode": 7,
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
+      "Level": 38
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 8,
+      "Character": "티치엘",
+      "UserId": "강다윤",
       "Level": 37
     },
     {
@@ -118,7 +118,7 @@
       "CharacterCode": 10,
       "Character": "나야트레이",
       "UserId": "유령천마",
-      "Level": 28
+      "Level": 29
     },
     {
       "ServerCode": 7,
@@ -139,14 +139,14 @@
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "천린",
-      "Level": 24
+      "Level": 25
     },
     {
       "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "우군망",
-      "Level": 23
+      "Level": 24
     },
     {
       "ServerCode": 7,
@@ -185,6 +185,13 @@
     },
     {
       "ServerCode": 7,
+      "CharacterCode": 11,
+      "Character": "아나이스",
+      "UserId": "2525",
+      "Level": 20
+    },
+    {
+      "ServerCode": 7,
       "CharacterCode": 12,
       "Character": "클로에",
       "UserId": "새드데이",
@@ -192,17 +199,10 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 11,
-      "Character": "아나이스",
-      "UserId": "2525",
-      "Level": 19
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 14,
       "Character": "이솔렛",
       "UserId": "성가",
-      "Level": 17
+      "Level": 19
     },
     {
       "ServerCode": 7,
@@ -258,21 +258,21 @@
       "CharacterCode": 11,
       "Character": "아나이스",
       "UserId": "권쫑",
-      "Level": 9
+      "Level": 10
     },
     {
       "ServerCode": 7,
       "CharacterCode": 1,
       "Character": "보리스",
       "UserId": "갱진22",
-      "Level": 7
+      "Level": 8
     },
     {
       "ServerCode": 7,
       "CharacterCode": 14,
       "Character": "이솔렛",
       "UserId": "에스파다스",
-      "Level": 6
+      "Level": 7
     },
     {
       "ServerCode": 7,
