@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-26 19:31:41",
+  "CollectDate": "2026-11-27 19:31:40",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -34,7 +34,7 @@
       "CharacterCode": 5,
       "Character": "란지에",
       "UserId": "구톤",
-      "Level": 57
+      "Level": 58
     },
     {
       "ServerCode": 7,
@@ -49,6 +49,13 @@
       "Character": "시벨린",
       "UserId": "음바배",
       "Level": 48
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 16,
+      "Character": "녹턴",
+      "UserId": "숀더게스트",
+      "Level": 42
     },
     {
       "ServerCode": 7,
@@ -84,13 +91,6 @@
       "Character": "로아미니",
       "UserId": "아메리카노빈☆",
       "Level": 40
-    },
-    {
-      "ServerCode": 7,
-      "CharacterCode": 16,
-      "Character": "녹턴",
-      "UserId": "숀더게스트",
-      "Level": 41
     },
     {
       "ServerCode": 7,
@@ -132,7 +132,7 @@
       "CharacterCode": 3,
       "Character": "시벨린",
       "UserId": "유교책",
-      "Level": 25
+      "Level": 26
     },
     {
       "ServerCode": 7,
@@ -192,17 +192,17 @@
     },
     {
       "ServerCode": 7,
-      "CharacterCode": 12,
-      "Character": "클로에",
-      "UserId": "새드데이",
-      "Level": 18
-    },
-    {
-      "ServerCode": 7,
       "CharacterCode": 14,
       "Character": "이솔렛",
       "UserId": "성가",
       "Level": 19
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 12,
+      "Character": "클로에",
+      "UserId": "새드데이",
+      "Level": 18
     },
     {
       "ServerCode": 7,
