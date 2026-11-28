@@ -1,5 +1,5 @@
 {
-  "CollectDate": "2026-11-28 06:01:41",
+  "CollectDate": "2026-11-28 13:41:43",
   "Rankings": [
     {
       "ServerCode": 7,
@@ -97,7 +97,7 @@
       "CharacterCode": 8,
       "Character": "티치엘",
       "UserId": "전투코끼리",
-      "Level": 38
+      "Level": 39
     },
     {
       "ServerCode": 7,
@@ -287,14 +287,32 @@
       "Character": "이솔렛",
       "UserId": "라러",
       "Level": 2
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 11,
+      "Character": "아나이스",
+      "UserId": "띠아블로",
+      "Level": 40
+    },
+    {
+      "ServerCode": 7,
+      "CharacterCode": 6,
+      "Character": "이자크",
+      "UserId": "용캉",
+      "Level": 3
     }
   ],
   "NotFound": [
-    "서라온",
     "ㅆㅣㅂㅏ",
     "별을품은마검",
     "다국",
     "바다거북",
-    "눅스"
+    "눅스",
+    "렉시오중독남",
+    "렉시오중독녀",
+    "다나루",
+    "아보로",
+    "거웅"
   ]
 }
